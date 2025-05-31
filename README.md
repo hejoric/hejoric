@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @hejoric
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a videogame
-- 📫 How to reach me @hejoric everywhere
-- ⚡ Fun fact: Learning Japanese
+My name is Jose Ricardo Herrera aka Hejoric. I'm a 3rd year CS student. Learning the basics. Thank you for checking out my profile, follow for awesome code and content!!!
 
 <!---
 hejoric/hejoric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
