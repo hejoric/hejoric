@@ -1,6 +1,5 @@
-My name is Jose Ricardo Herrera aka Hejoric. I'm a 3rd year CS student at the University of Virginia School of Engineering. Learning the basics. Thank you for checking out my profile, follow for awesome code and content!!!
+I'm a Computer Science student at UVA with a passion for creating impactful software solutions. While earning my associate's degree, I worked as a server and at Costco to support my education and pursue my dreams.
 
-<!---
-hejoric/hejoric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m particularly interested in developing retail software, video game development, and language learning applications. My experiences have shaped my resilience, adaptability, and work ethic, which I bring into every project I tackle.
+
+Outside of coding, I enjoy learning new languages, playing music, working out, and exploring video games. I’m always eager to connect with like-minded individuals and collaborate on innovative ideas.
